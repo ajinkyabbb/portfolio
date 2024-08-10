@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7a962214.css",
+    "main.js": "/portfolio/static/js/main.c4d5a787.js",
+    "static/js/787.b80100c1.chunk.js": "/portfolio/static/js/787.b80100c1.chunk.js",
+    "static/media/E-Learning-Website.png": "/portfolio/static/media/E-Learning-Website.bd30527b6ff5c72216bf.png",
+    "static/media/MovieDb.png": "/portfolio/static/media/MovieDb.7a8784b0aba1898ef2d4.png",
+    "static/media/SkillUp-IT-Academy-An-IT-Training-Institute.png": "/portfolio/static/media/SkillUp-IT-Academy-An-IT-Training-Institute.f53d518ea0cef3c0f81c.png",
+    "static/media/Testing_Debugging.jpg": "/portfolio/static/media/Testing_Debugging.94acb8fbc9d1098f22a7.jpg",
+    "static/media/hero.png": "/portfolio/static/media/hero.a582e6870056c2d1c59d.png",
+    "static/media/bg.png": "/portfolio/static/media/bg.28e7d978b7eb270a0b92.png",
+    "static/media/Quickvee.png": "/portfolio/static/media/Quickvee.e9d3264bda3794c296aa.png",
+    "static/media/6186698.jpg": "/portfolio/static/media/6186698.d3d99950385d47091178.jpg",
+    "static/media/web_accessibility.jpg": "/portfolio/static/media/web_accessibility.245f6cd5daccc2b019fc.jpg",
+    "static/media/C++_Exam_Model.png": "/portfolio/static/media/C++_Exam_Model.c7c6a2b91469c18ad6ff.png",
+    "static/media/web_developement.jpg": "/portfolio/static/media/web_developement.f420ddec5c56f2b6ad61.jpg",
+    "static/media/Cross-Browser-Compatibility.jpg": "/portfolio/static/media/Cross-Browser-Compatibility.0ceb9162874ef662d301.jpg",
+    "static/media/libraries.jpg": "/portfolio/static/media/libraries.6c5dad683cbcdabb7f61.jpg",
+    "static/media/Collaboration_and_Communication.jpg": "/portfolio/static/media/Collaboration_and_Communication.cf0f9dd9c6839bdf057c.jpg",
+    "static/media/HtmlCssJavaScript.jpg": "/portfolio/static/media/HtmlCssJavaScript.57d3c0c708843afb3498.jpg",
+    "static/media/Web_Performance_Optimization.jpg": "/portfolio/static/media/Web_Performance_Optimization.f8503c06f144b3231148.jpg",
+    "static/media/responsive_web_developement.jpg": "/portfolio/static/media/responsive_web_developement.c7b4d453249cbd7d83e1.jpg",
+    "static/media/Version_Control.jpg": "/portfolio/static/media/Version_Control.45e96c3d01dd4ffae6a1.jpg",
+    "static/media/cssFramework.jpg": "/portfolio/static/media/cssFramework.0284fb507c2b1b517842.jpg",
+    "static/media/front_end_tools.jpg": "/portfolio/static/media/front_end_tools.f69b54a79a6a043dc8f7.jpg",
+    "static/media/Progressive_web_app.jpg": "/portfolio/static/media/Progressive_web_app.2f5b9255dc629fb27092.jpg",
+    "static/media/Animation.jpg": "/portfolio/static/media/Animation.a158c522760e72dd593a.jpg",
+    "static/media/Ajax_api_integration.jpg": "/portfolio/static/media/Ajax_api_integration.4b3be9ea73b983147273.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.7a962214.css.map": "/portfolio/static/css/main.7a962214.css.map",
+    "main.c4d5a787.js.map": "/portfolio/static/js/main.c4d5a787.js.map",
+    "787.b80100c1.chunk.js.map": "/portfolio/static/js/787.b80100c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a962214.css",
+    "static/js/main.c4d5a787.js"
+  ]
+}
